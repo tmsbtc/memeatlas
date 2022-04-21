@@ -1,5 +1,4 @@
-# memeatlas
-Download the Pepe, Wojak, Brainlet, Boomer, and Bobo images from [Meme Atlas](https://www.memeatlas.com) with two commands - Linux/MacOs.
+# memeatlas: Download the Pepe, Wojak, Brainlet, Boomer, and Bobo images from [Meme Atlas](https://www.memeatlas.com) with two commands - Linux/MacOs.
 
 Download the zip file of this repo and extract it. 
 
